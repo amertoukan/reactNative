@@ -18,14 +18,9 @@
 <li>react-native run-ios</li>
 </ol>
 
-
-<h4>What is react native?</h4>
-<hr/>
-<p>React navigation is a react-native lirary to manage the presentation of, and transition between, multiple screens. </p>
-
-
 <h4>So what is this app?</h4>
 <hr/>
+<p>React native, based on the user input, returns a custom greeting.It also has the basics of react navigation.</p>
 <p>This app currently has two screens: </p>
 <ol>
 <li>Main</li>
@@ -34,10 +29,9 @@
 
 <p>The <em>Main</em> screen asks the user for their name and greets them. <em>Main</em></p>
 
-
-<h4>What sort of navigation is designed</h4>
-<p>Currently, there is a Stack Navigation with different headerStyle,HeaderTintColor. </p>
-<p>The App also has a bottom tab navigator. </p>
+<h4>What is react navigation?</h4>
+<hr/>
+<p>React navigation is a react-native lirary to manage the presentation of, and transition between, multiple screens. </p>
 
 
 <h4>Screenshots:</h4>
